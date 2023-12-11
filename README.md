@@ -34,7 +34,7 @@ To strategically analyze this situation, we have formulated three research quest
 ## 3. Dataset
 To address this challenge, two key data sources are utilized: Firstly, an extensive csv file with sensor-recorded vehicle movements in the Boonsong Lekagul Nature Preserve, detailing timestamps, unique vehicle IDs, types of vehicles, and the specific gates and sensors they pass. Secondly, a map of the Preserve, visually depicting a 200x200 grid area, showcasing roads, sensor placements, and important zones within the Preserve. The dataset is cleaned, pre-processed, and formatted for the analysis.
 
-![Heat Map of Unusual Vehicle behaviour](path/to/your/image/QGIS2.png)  
+![Heat Map of Unusual Vehicle behaviour](Vehicle-type-4 Anomaly.png)  
 _Figure 1: Heat Map of Unusual Vehicle Behaviour_
 
 ![Vehicle type-4 Anomaly](path/to/your/image/Vehicle-type-4_Anomaly.png)  
