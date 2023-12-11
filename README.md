@@ -3,22 +3,8 @@
 
 ### Authors
 - **John Melwin Richard**  
-  Golisano College of Computing  
-  Rochester Institute of Technology  
-  Rochester, USA  
-  Email: jj5603@rit.edu
-
 - **Mahanand Adimulam**  
-  Golisano College of Computing  
-  Rochester Institute of Technology  
-  Rochester, USA  
-  Email: ma9333@g.rit.edu
-
 - **Niranjan Ambekar**  
-  Golisano College of Computing  
-  Rochester Institute of Technology  
-  Rochester, USA  
-  Email: na2883@rit.edu
 
 ---
 
