@@ -41,7 +41,7 @@ _Figure 1: Heat Map of Unusual Vehicle Behaviour_
 ![Vehicle type-4 Anomaly](path/to/your/image/Vehicle-type-4_Anomaly.png)  
 _Figure 2: Vehicle Type-4 Anomaly_
 
-![Visualize by Time](path/to/your/image/Visualize_by_time.png)  
+![Visualize by Time](Visualize-by-time.png)  
 _Figure 3: Visualize by Time_
 
 ---
