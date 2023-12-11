@@ -34,28 +34,26 @@ To strategically analyze this situation, we have formulated three research quest
 ## 3. Dataset
 To address this challenge, two key data sources are utilized: Firstly, an extensive csv file with sensor-recorded vehicle movements in the Boonsong Lekagul Nature Preserve, detailing timestamps, unique vehicle IDs, types of vehicles, and the specific gates and sensors they pass. Secondly, a map of the Preserve, visually depicting a 200x200 grid area, showcasing roads, sensor placements, and important zones within the Preserve. The dataset is cleaned, pre-processed, and formatted for the analysis.
 
-![Vehicle Type-4 Anomaly](Vehicle-type-4%20Anomaly.png)
-_Figure 2: Vehicle Type-4 Anomaly_
-_Figure 1: Heat Map of Unusual Vehicle Behaviour_
-
-![Vehicle type-4 Anomaly](QGIS.png)  
-_Figure 2: Vehicle Type-4 Anomaly_
-
-![Visualize by Time](time.png)
-_Figure 3: Visualize by Time_
 
 ---
 
 ## 4. Visualization Approach
 ### 4.1 Visualizing by Vehicle Type
 Initially, vehicles entering the preserve were categorized based on axle count, facilitating an analysis of adherence to preserve regulations. Sensor data at various checkpoints, plotted against days over a year, generated six distinct plots for each vehicle type. The y-axis represented checkpoints, while the x-axis indicated days. Among these, the plot for vehicle type-4 (4-axle trucks) exhibited a clear anomaly.
-
+![Vehicle Type-4 Anomaly](Vehicle-type-4%20Anomaly.png)
+_Figure 1: Vehicle Type-4 Anomaly_
 Per preserve regulations, only vehicles with a pass may access checkpoints. However, a specific type-4 truck, lacking a pass, repeatedly accessed checkpoints approximately bi-weekly, raising suspicions due to its deviation from normative behavior. Figure-1's vehicle-type visualization distinctly marks this type-4 truck as an anomalous case.
 
 ### 4.2 Visualizing by Path
 Following the identification of type-4 vehicles as anomalous in the previous analysis, tracing their path within the preserve was the logical next step. Tracking these unauthorized type-4 vehicles revealed a consistent bi-weekly pattern. The typical route taken by the anomalous truck was: entrance-3, gate-6, ranger-stop-6, gate-5, general-gate-5, gate-3, and ranger-stop-3.
 
+![Vehicle type-4 Anomaly](QGIS.png)  
+_Figure 2: Vehicle Type-4 Anomaly_
+
 ### 4.3 Visualizing by Time
+
+![Visualize by Time](time.png)
+_Figure 3: Visualize by Time_
 The final analytical step involved visualizing the anomalous truck's movements over time. Plotting the truck's path on the y-axis against various times of the day for vehicle type-4, as shown in figure-3, clearly indicated a pattern of unauthorized access. Notably, all such incidents occurred after midnight and lasted until early morning, intensifying suspicions. Figure-2's heat map vividly illustrates these occurrences, highlighting the type-4 truck's unauthorized gate access between 12 am and 6 am.
 
 ---
