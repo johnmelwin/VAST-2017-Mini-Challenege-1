@@ -47,18 +47,20 @@ _Figure 3: Visualize by Time_
 
 ## 4. Visualization Approach
 ### 4.1 Visualizing by Vehicle Type
-(Your content for this section)
+Initially, vehicles entering the preserve were categorized based on axle count, facilitating an analysis of adherence to preserve regulations. Sensor data at various checkpoints, plotted against days over a year, generated six distinct plots for each vehicle type. The y-axis represented checkpoints, while the x-axis indicated days. Among these, the plot for vehicle type-4 (4-axle trucks) exhibited a clear anomaly.
+
+Per preserve regulations, only vehicles with a pass may access checkpoints. However, a specific type-4 truck, lacking a pass, repeatedly accessed checkpoints approximately bi-weekly, raising suspicions due to its deviation from normative behavior. Figure-1's vehicle-type visualization distinctly marks this type-4 truck as an anomalous case.
 
 ### 4.2 Visualizing by Path
-(Your content for this section)
+Following the identification of type-4 vehicles as anomalous in the previous analysis, tracing their path within the preserve was the logical next step. Tracking these unauthorized type-4 vehicles revealed a consistent bi-weekly pattern. The typical route taken by the anomalous truck was: entrance-3, gate-6, ranger-stop-6, gate-5, general-gate-5, gate-3, and ranger-stop-3.
 
 ### 4.3 Visualizing by Time
-(Your content for this section)
+The final analytical step involved visualizing the anomalous truck's movements over time. Plotting the truck's path on the y-axis against various times of the day for vehicle type-4, as shown in figure-3, clearly indicated a pattern of unauthorized access. Notably, all such incidents occurred after midnight and lasted until early morning, intensifying suspicions. Figure-2's heat map vividly illustrates these occurrences, highlighting the type-4 truck's unauthorized gate access between 12 am and 6 am.
 
 ---
 
 ## 5. Conclusion
-(Your conclusion content)
+After analysis, it was understood that the preserve has regulations, and there is a pattern in vehicle behavior that adheres to these regulations. However, an anomaly has been noted in the form of different trucks of the same vehicle type. These trucks access unauthorized gates without a pass, following the same path bi-weekly, from after midnight until early morning. The behavior of these trucks is suspicious and may be a contributing factor in disturbing the preserve's ecosystem, addressing our second research question. One hypothesis is that the rose-crested blue pipit, known for being ground nesters, is disturbed by these trucks during the night, potentially answering our third research question.
 
 ---
 
