@@ -38,7 +38,7 @@ To address this challenge, two key data sources are utilized: Firstly, an extens
 _Figure 2: Vehicle Type-4 Anomaly_
 _Figure 1: Heat Map of Unusual Vehicle Behaviour_
 
-![Vehicle type-4 Anomaly](path/to/your/image/Vehicle-type-4_Anomaly.png)  
+![Vehicle type-4 Anomaly](QGIS.png)  
 _Figure 2: Vehicle Type-4 Anomaly_
 
 ![Visualize by Time](Visualize%by%time.png)
