@@ -57,14 +57,39 @@ EventPad for glyph-based event representation respetively.</span>
 
 ## 4. Visualization Approach 📊
 ### 4.1 Visualizing by Vehicle Type 🚛
+Initially, vehicles entering the preserve were categorized
+based on axle count, facilitating an analysis of adherence
+to preserve regulations. Sensor data at various checkpoints,
+plotted against days over a year, generated six distinct plots for
+each vehicle type. The y-axis represented checkpoints, while
+the x-axis indicated days. Among these, the plot for vehicle
+type-4 (4-axle trucks) exhibited a clear anomaly.
+Per preserve regulations, only vehicles with a pass may
+access checkpoints. However, a specific type-4 truck, lacking
+a pass, repeatedly accessed checkpoints approximately biweekly, raising suspicions due to its deviation from normative
+behavior. Figure 2 vehicle-type visualization distinctly marks
+this type-4 truck as an anomalous case.
 ![Vehicle Type-4 Anomaly](Vehicle-type-4%20Anomaly.png)
 _Figure 1: Vehicle Type-4 Anomaly_
 
 ### 4.2 Visualizing by Path 🛣️
+Following the identification of type-4 vehicles as anomalous
+in the previous analysis, tracing their path within the preserve
+was the logical next step. Tracking these unauthorized type4 vehicles revealed a consistent bi-weekly pattern and also
+revealed the vehicle-IDs. The typical route taken by the
+anomalous truck was: entrance-3, gate-6, ranger-stop-6, gate5, general-gate-5, gate-3, and ranger-stop-3.
 ![Vehicle type-4 Anomaly](QGIS.png)  
 _Figure 2: Vehicle Type-4 Anomaly_
 
 ### 4.3 Visualizing by Time ⏰
+The final analytical step involved visualizing the anomalous
+truck’s movements over time. Plotting the truck’s path on the
+y-axis against various times of the day for vehicle type-4, as
+shown in Figure 3, clearly indicated a pattern of unauthorized
+access. Notably, all such incidents occurred after midnight and
+lasted until early morning, intensifying suspicions. Figure 2
+vividly illustrates these occurrences, highlighting the type-4
+truck’s unauthorized gate access between 12 am and 6 am
 ![Visualize by Time](time.png)
 _Figure 3: Visualize by Time_
 
