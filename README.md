@@ -19,7 +19,16 @@
 ---
 
 ## 1. Introduction 📖
-<span style="color:darkred">The Boonsong Lekagul Nature Preserve, visited by local residents and tourists, faces an important challenge. There are signs indicating a decrease in the number of nesting pairs of the Rose-Crested Blue Pipit, a bird cherished for its attractive feathers and melodious songs.</span>
+<span style="color:darkred">The Boonsong Lekagul Nature Preserve, visited by local
+residents and tourists faces an important challenge. There
+are signs indicating a decrease in the number of nesting
+pairs of the Rose-Crested Blue Pipit, a bird cherished for its
+attractive feathers and melodious songs. There could be some
+odd vehicle behaviours that seem inconsistent with typical
+park visitation patterns which might affect the birds. This
+study aims to analyze these vehicle behaviors over time,
+shedding light on whether and how they might be disrupting
+the preserve’s delicate ecosystem.</span>
 
 ---
 
