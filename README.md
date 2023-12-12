@@ -42,7 +42,16 @@ the preserve’s delicate ecosystem.</span>
 ---
 
 ## 3. Dataset 🗂️
-<span style="color:chocolate">To address this challenge, two key data sources are utilized: Firstly, an extensive csv file with sensor-recorded vehicle movements in the Boonsong Lekagul Nature Preserve...</span>
+<span style="color:chocolate">To address this challenge, two key data sources are utilized:
+Firstly, an extensive csv file with sensor-recorded vehicle
+movements in the Boonsong Lekagul Nature Preserve, detailing timestamps, unique vehicle IDs, types of vehicles, and the
+specific gates and sensors they pass. Secondly, a map of the
+Preserve, visually depicting a 200x200 grid area, showcasing
+roads, sensor placements, and important zones within the
+Preserve. This dataset, previously employed in IEEE VAST
+challenge submissions [1] and [2], yielded diverse solutions,
+including spatio-temporal visualization and the utilization of
+EventPad for glyph-based event representation respetively.</span>
 
 ---
 
@@ -62,7 +71,19 @@ _Figure 3: Visualize by Time_
 ---
 
 ## 5. Conclusion 🎓
-<span style="color:green">After analysis, it was understood that the preserve has regulations, and there is a pattern in vehicle behavior that adheres to these regulations...</span>
+<span style="color:green">After a coherent analysis, it was understood that the preserve
+has regulations, and there is a pattern in vehicle behavior
+that adheres to these regulations. However, an anomaly has
+been noted in the form of different trucks of the same vehicle
+type. These trucks access unauthorized gates without a pass,
+following the same path bi-weekly, from after midnight until
+early morning. The behavior of these trucks is suspicious
+and may be a contributing factor in disturbing the preserve’s
+ecosystem, addressing our second research question. One
+hypothesis is that the rose-crested blue pipit, known for being
+ground nesters, is disturbed by these trucks during the night,
+potentially answering our third research question.
+</span>
 
 ---
 
